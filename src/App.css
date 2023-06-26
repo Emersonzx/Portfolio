@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  text-indent: 2em;
+  
+}
+.container{
+  width:70vw;
+}
+.illustration{
+  display: flex;
+  flex-direction: row;
+}
+.section1{
+background-color: rgb(12, 66, 39);
+border-radius: 10px;
+}
+
+h1{
+  font-size: 2rem;
+}
+p{
+  font-size: 1.2rem;
+  
+}
+.images img{
+  width: 60vw;
+}
+.footer{
+  height: 3rem;
+}
